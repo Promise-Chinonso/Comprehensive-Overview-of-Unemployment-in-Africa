@@ -1,4 +1,6 @@
 ## Comprehensive Overview of Unemployment in Africa
+![image](https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/45f62a97-0aa7-4f52-954b-98fc58c2e042)
+
 ---
 #### Context
 One of the major challenges ravaging the African continent is the issue of unemployment amongst it's employable population. It may seem quite sad as the number of youths without jobs or valuable sources of income has hit an all time high. When compared to other continents of the world, one might be faced with answering the rhetorical question, why Aftica?
@@ -14,15 +16,25 @@ The data used for this analysis was provided by *10anlytics* for its Global Hack
 The data contains global records for the unemployment rate across genders, country codes information, the expenditure on education by the government of different countries, strategies in place for youth employment, population's access to electricity and number of firms existing in each country. The data spans across tens of years. 
 
 ---
-#### Tool(s) used
-I relied solely on Microsoft Excel for every process of this analysis. 
+#### Tool(s) Used
+I relied solely on Microsoft Excel for every step of this analysis. 
 
----
 #### Processes
 - Connection to data source
 - Data cleaning and transformation
 - Analysis
 - Visualization and reporting
+  
+---
+#### Connecting To The Various Data Sources, Data Cleaning and Transformation
+Connecting to the 6 tables for this analysis was quite seamless as I leveraged the Power Query editor for connecting to the files containing these tables. 
+
+Upon successful connection, the tables were individually profiled to get a breakdown of the value distributions and statistics. This process made provided a clear view of the anomalies and inconsistencies within the data after which data cleaning and transformation followed. 
+
+For this part, the tables were renamed and given better and more descriptive headers, the null values were removed, incorrect data types were corrected, outliers in the year fields were removed. Some of the tables were filtered to display details from 2011-2021 as this is the year range under consideration. 
+
+Merging of tables, conversion of rates to decimals etc. were 
+
 
 <img width="959" alt="Cleaned Tables in Power Query" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/832516c6-4eba-45ba-a740-76b3d6e1de8a">
 ---
