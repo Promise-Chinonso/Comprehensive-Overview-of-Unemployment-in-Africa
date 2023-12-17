@@ -1,4 +1,4 @@
-## Comprehensive Overview of Unemployment in Africa
+## Comprehensive Overview of Unemployment in Africa (2021)
 
 #### Context
 One of the major challenges ravaging the African continent is the issue of unemployment amongst it's employable population. It may seem quite sad as the number of youths without jobs or valuable sources of income has hit an all time high. When compared to other continents of the world, one might be faced with answering the rhetorical question, why Aftica?
@@ -39,19 +39,33 @@ To ensure accurate analysis, relationships were established between all 6 tables
 
 <img width="775" alt="Data Model in Power Pivot" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/98367127-8b1b-49ea-92a2-cd2c1b1b1a22">
 
-Data Analysis using Microsoft Excel's Pivot Table functionality
+#### Data Analysis using Microsoft Excel's Pivot Table functionality
 To continue the analysis within Excel, its Pivot table feature was used extensively for data aggregation and summarization.
 
 <img width="960" alt="Pivot Table Field Displaying Model" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/ebaed420-6c65-43d2-8934-768521903281">
+
+#### Insights from Analysis
+
 ---
+Analysis of the unemployment rate by continents shows that the situation in Africa is devastating, with the continent currently having the highest unemployment rate among its labor force.
+
+Addressing this critical issue requires a multifaceted approach. Efforts should focus on implementing targeted employment programs, fostering skill development initiatives, and creating a conducive business environment to stimulate job growth. Collaboration between governments, private sectors, and international organizations is essential to formulate comprehensive strategies that address the root causes of unemployment and pave the way for sustainable economic development across the continent.
 
 <img width="451" alt="Unemployment rate across Continents" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d74c332e-0e06-4f08-a2c6-7822238f67aa">
+
 ---
+With a focus on the African continent, further analysis reveals the ten African countries most affected by the high unemployment rate. South Africa, a nation known for its diverse economic landscape and significant contributions to various industries, stands at the top of the list. However, the challenges extend beyond *South Africa*, encompassing countries such as *Djibouti*, *Eswatini*, and others. 
+
+Addressing these specific regional disparities demands targeted interventions and collaborative efforts to foster sustainable solutions for employment and economic growth across the continent.
 
 <img width="424" alt="Top 10 African countries by unemployment rate" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/75e83bcd-fee5-4431-a3c0-6eab0b877b22">
----
 
-<img width="170" alt="% of unemployed males" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/378c5155-7638-4966-8f02-c5a3b9094ba3"> -|- <img width="170" alt="% of unemployed females" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d354386b-de32-444c-97fb-0205143965e0">
+---
+The significant gap in the unemployment rate between males and females in Africa, reaching as high as 4% in favor of the male population, emohasisez the urgent need to minimize gender discrepancies in labor force considerations. Creating equal opportunities for everyone, irrespective of gender, is crucial for fostering a fair and inclusive job market. 
+
+By addressing these disparities, societies can harness the full potential of their diverse talents, contributing to more balanced and thriving economies. 
+
+<img width="170" alt="% of unemployed males" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/378c5155-7638-4966-8f02-c5a3b9094ba3"> | <img width="170" alt="% of unemployed females" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d354386b-de32-444c-97fb-0205143965e0">
 ---
 
 <img width="539" alt="Unemployment_10 years in view" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/fc60eaa1-35d9-474f-804f-ca523df7d241">
