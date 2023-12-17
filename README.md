@@ -1,7 +1,5 @@
 ## Comprehensive Overview of Unemployment in Africa
-![image](https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/45f62a97-0aa7-4f52-954b-98fc58c2e042)
 
----
 #### Context
 One of the major challenges ravaging the African continent is the issue of unemployment amongst it's employable population. It may seem quite sad as the number of youths without jobs or valuable sources of income has hit an all time high. When compared to other continents of the world, one might be faced with answering the rhetorical question, why Aftica?
 
@@ -9,13 +7,13 @@ The African continent is the second most populated continent in the world with i
 
 This project takes a closer look at the unemployment situation in Africa, its trends and potential impacting factors with a direct focus on the year 2021. 
 
----
+![image](https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/45f62a97-0aa7-4f52-954b-98fc58c2e042)
+
 #### Data Source(s)
-The data used for this analysis was provided by *10anlytics* for its Global Hackathon, 2023. 
+The data used for this analysis was provided by *10alytics* for its Global Hackathon, 2023. 
 
 The data contains global records for the unemployment rate across genders, country codes information, the expenditure on education by the government of different countries, strategies in place for youth employment, population's access to electricity and number of firms existing in each country. The data spans across tens of years. 
 
----
 #### Tool(s) Used
 I relied solely on Microsoft Excel for every step of this analysis. 
 
@@ -25,22 +23,24 @@ I relied solely on Microsoft Excel for every step of this analysis.
 - Analysis
 - Visualization and reporting
   
----
 #### Connecting To The Various Data Sources, Data Cleaning and Transformation
 Connecting to the 6 tables for this analysis was quite seamless as I leveraged the Power Query editor for connecting to the files containing these tables. 
 
 Upon successful connection, the tables were individually profiled to get a breakdown of the value distributions and statistics. This process made provided a clear view of the anomalies and inconsistencies within the data after which data cleaning and transformation followed. 
 
-For this part, the tables were renamed and given better and more descriptive headers, the null values were removed, incorrect data types were corrected, outliers in the year fields were removed. Some of the tables were filtered to display details from 2011-2021 as this is the year range under consideration. 
-
-Merging of tables, conversion of rates to decimals etc. were 
-
-
 <img width="959" alt="Cleaned Tables in Power Query" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/832516c6-4eba-45ba-a740-76b3d6e1de8a">
----
+
+For the data cleaning, the tables were renamed and given better and more descriptive headers, the null values were removed, incorrect data types were corrected, outliers in the year fields were removed. Some of the tables were filtered to display details from 2011-2021 as this is the year range under consideration. 
+
+Merging of tables, conversion of rates to decimals etc. were some transformational processes that took place to enhance the data and ready it for effective analysis.
+
+#### Data Model
+To ensure accurate analysis, relationships were established between all 6 tables based on their common fields. The data modelling was done in Microsoft  Excel's Power Povot functionality and the relationship captured as shown below 👇
 
 <img width="775" alt="Data Model in Power Pivot" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/98367127-8b1b-49ea-92a2-cd2c1b1b1a22">
----
+
+Data Analysis using Microsoft Excel's Pivot Table functionality
+To continue the analysis within Excel, its Pivot table feature was used extensively for data aggregation and summarization.
 
 <img width="960" alt="Pivot Table Field Displaying Model" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/ebaed420-6c65-43d2-8934-768521903281">
 ---
