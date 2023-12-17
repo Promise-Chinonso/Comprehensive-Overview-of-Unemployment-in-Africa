@@ -54,7 +54,7 @@ Addressing this critical issue requires a multifaceted approach. Efforts should 
 <img width="451" alt="Unemployment rate across Continents" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d74c332e-0e06-4f08-a2c6-7822238f67aa">
 
 ---
-With a focus on the African continent, further analysis reveals the ten African countries most affected by the high unemployment rate. South Africa, a nation known for its diverse economic landscape and significant contributions to various industries, stands at the top of the list. However, the challenges extend beyond *South Africa*, encompassing countries such as *Djibouti*, *Eswatini*, and others. 
+With a focus on the African continent, further analysis reveals the ten African countries most affected by the high unemployment rate. South Africa, a nation known for its diverse economic landscape and significant contributions to various industries, stands at the top of the list. However, the challenges extend beyond **South Africa**, encompassing countries such as **Djibouti**, **Eswatini**, and others. 
 
 Addressing these specific regional disparities demands targeted interventions and collaborative efforts to foster sustainable solutions for employment and economic growth across the continent.
 
@@ -66,6 +66,7 @@ The significant gap in the unemployment rate between males and females in Africa
 By addressing these disparities, societies can harness the full potential of their diverse talents, contributing to more balanced and thriving economies. 
 
 <img width="170" alt="% of unemployed males" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/378c5155-7638-4966-8f02-c5a3b9094ba3"> | <img width="170" alt="% of unemployed females" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d354386b-de32-444c-97fb-0205143965e0">
+:---------------------------------------------: | :------------------------------------:
 ---
 
 <img width="539" alt="Unemployment_10 years in view" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/fc60eaa1-35d9-474f-804f-ca523df7d241">
