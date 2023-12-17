@@ -1,9 +1,17 @@
-## Comprehensive-Overview-of-Unemployment-in-Africa
+## Comprehensive Overview of Unemployment in Africa
 ---
+#### Context
 One of the major challenges ravaging the African continent is the issue of unemployment amongst it's employable population. It may seem quite sad as the number of youths without jobs or valuable sources of income has hit an all time high. When compared to other continents of the world, one might be faced with answering the rhetorical question, why Aftica?
 
-The African continent is the second most populated continent in world with its population numbering up to 3 billion. 
+The African continent is the second most populated continent in the world with its population numbering up to 1.4billion (approximately 18% of the world population) as at 2021. 
+
+This project takes a closer look at the unemployment situation in Africa, its trends and potential impacting factors with a direct focus on the year 2021. 
+
 ---
+#### Data Source(s)
+The data used for this analysis was collected and made available by 
+
+
 <img width="959" alt="Cleaned Tables in Power Query" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/832516c6-4eba-45ba-a740-76b3d6e1de8a">
 ---
 
