@@ -9,8 +9,20 @@ This project takes a closer look at the unemployment situation in Africa, its tr
 
 ---
 #### Data Source(s)
-The data used for this analysis was collected and made available by 
+The data used for this analysis was provided by *10anlytics* for its Global Hackathon, 2023. 
 
+The data contains global records for the unemployment rate across genders, country codes information, the expenditure on education by the government of different countries, strategies in place for youth employment, population's access to electricity and number of firms existing in each country. The data spans across tens of years. 
+
+---
+#### Tool(s) used
+I relied solely on Microsoft Excel for every process of this analysis. 
+
+---
+#### Processes
+- Connection to data source
+- Data cleaning and transformation
+- Analysis
+- Visualization and reporting
 
 <img width="959" alt="Cleaned Tables in Power Query" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/832516c6-4eba-45ba-a740-76b3d6e1de8a">
 ---
