@@ -61,7 +61,7 @@ Addressing these specific regional disparities demands targeted interventions an
 <img width="424" alt="Top 10 African countries by unemployment rate" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/75e83bcd-fee5-4431-a3c0-6eab0b877b22">
 
 ---
-The significant gap in the unemployment rate between males and females in Africa, reaching as high as 4% in favor of the male population, emohasisez the urgent need to minimize gender discrepancies in labor force considerations. Creating equal opportunities for everyone, irrespective of gender, is crucial for fostering a fair and inclusive job market. 
+The significant gap in the unemployment rate between males and females in Africa, reaching as high as 4% in favor of the male population, emphasises the urgent need to minimize gender discrepancies in labor force considerations. Creating equal opportunities for everyone, irrespective of gender, is crucial for fostering a fair and inclusive job market. 
 
 By addressing these disparities, societies can harness the full potential of their diverse talents, contributing to more balanced and thriving economies. 
 
