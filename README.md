@@ -1,5 +1,9 @@
 ## Comprehensive-Overview-of-Unemployment-in-Africa
 ---
+One of the major challenges ravaging the African continent is the issue of unemployment amongst it's employable population. It may seem quite sad as the number of youths without jobs or valuable sources of income has hit an all time high. When compared to other continents of the world, one might be faced with answering the rhetorical question, why Aftica?
+
+The African continent is the second most populated continent in world with its population numbering up to 3 billion. 
+---
 <img width="959" alt="Cleaned Tables in Power Query" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/832516c6-4eba-45ba-a740-76b3d6e1de8a">
 ---
 
