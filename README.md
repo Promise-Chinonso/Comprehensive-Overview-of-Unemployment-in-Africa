@@ -26,7 +26,7 @@ I relied solely on Microsoft Excel for every step of this analysis.
 #### Connecting To The Various Data Sources, Data Cleaning and Transformation
 Connecting to the 6 tables for this analysis was quite seamless as I leveraged the Power Query editor for connecting to the files containing these tables. 
 
-Upon successful connection, the tables were individually profiled to get a breakdown of the value distributions and statistics. This process made provided a clear view of the anomalies and inconsistencies within the data after which data cleaning and transformation followed. 
+Upon successful connection, the tables were individually profiled to get a breakdown of the value distributions and statistics. This process provided a clear view of the anomalies and inconsistencies within the data after which data cleaning and transformation followed. 
 
 <img width="959" alt="Cleaned Tables in Power Query" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/832516c6-4eba-45ba-a740-76b3d6e1de8a">
 
