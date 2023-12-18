@@ -47,6 +47,8 @@ To continue the analysis within Excel, its Pivot table feature was used extensiv
 #### Insights from Analysis
 
 ---
+**1. Unemployment Rate across Continents**
+
 Analysis of the unemployment rate by continents shows that the situation in Africa is devastating, with the continent currently having the highest unemployment rate among its labor force.
 
 Addressing this critical issue requires a multifaceted approach. Efforts should focus on implementing targeted employment programs, fostering skill development initiatives, and creating a conducive business environment to stimulate job growth. Collaboration between governments, private sectors, and international organizations is essential to formulate comprehensive strategies that address the root causes of unemployment and pave the way for sustainable economic development across the continent.
@@ -54,6 +56,8 @@ Addressing this critical issue requires a multifaceted approach. Efforts should 
 <img width="451" alt="Unemployment rate across Continents" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d74c332e-0e06-4f08-a2c6-7822238f67aa">
 
 ---
+**2. Top 10 African Countries in terms of Overall Unemployment Rate**
+
 With a focus on the African continent, further analysis reveals the ten African countries most affected by the high unemployment rate. South Africa, a nation known for its diverse economic landscape and significant contributions to various industries, stands at the top of the list. However, the challenges extend beyond **South Africa**, encompassing countries such as **Djibouti**, **Eswatini**, and others. 
 
 Addressing these specific regional disparities demands targeted interventions and collaborative efforts to foster sustainable solutions for employment and economic growth across the continent.
@@ -61,28 +65,43 @@ Addressing these specific regional disparities demands targeted interventions an
 <img width="424" alt="Top 10 African countries by unemployment rate" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/75e83bcd-fee5-4431-a3c0-6eab0b877b22">
 
 ---
+**3. Unemployment Rate by Gender**
+
 The significant gap in the unemployment rate between males and females in Africa, reaching as high as 4% in favor of the male population, emphasises the urgent need to minimize gender discrepancies in labor force considerations. Creating equal opportunities for everyone, irrespective of gender, is crucial for fostering a fair and inclusive job market. 
 
 By addressing these disparities, societies can harness the full potential of their diverse talents, contributing to more balanced and thriving economies. 
 
 <img width="170" alt="% of unemployed males" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/378c5155-7638-4966-8f02-c5a3b9094ba3"> | <img width="170" alt="% of unemployed females" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/d354386b-de32-444c-97fb-0205143965e0">
 :---------------------------------------------: | :------------------------------------:
+
 ---
+**4. A Decade in Review**
+
+Over the past decade (2011-2021), unemployment in Africa has been on the rise, especially with an 11.11% increase between 2019 and 2020 due to the impact of COVID-19. Lockdowns led to job losses and business closures, hitting the working class hard. 
+
+To tackle this, targeted efforts are needed. Governments and businesses can work together on initiatives for job creation, skill development, and supporting entrepreneurship. Investing in growing sectors like technology and green industries is crucial for future resilience. Additionally, establishing social safety nets can help those affected by job losses. By addressing these aspects, there's a chance to build a more sustainable and inclusive employment landscape in Africa. 
+
 
 <img width="539" alt="Unemployment_10 years in view" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/fc60eaa1-35d9-474f-804f-ca523df7d241">
+
 ---
+**5. How Africa and Other Continents are Empowering Youth Employment with Operationalized Strategies**
+
+Compared to other continents, Africa has the lowest number of countries with operationalized strategies for youth employment—a crucial factor for enhancing the employment landscape of both the continent and its nations. Unfortunately, the number of African countries meeting this standard is notably lower compared to counterparts in other continents.
+
+In overcoming this challenge, fostering collaborative efforts and sharing best practices among African nations becomes imperative. Effective youth employment strategies can be established by drawing inspiration from successful models implemented elsewhere. 
 
 <img width="520" alt="Continents and proportion of their countries with Operational Strategies for Youth Employment in place" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/435bd755-ef12-48b9-944d-104cb6308536">
+
 ---
+**6. How The Government Expenditure on Education Contributes to the Overall Unemployment Rate in Africa**
+
+Analyzing the correlation between government expenditure on education and the unemployment rate across countries reveals no discernible relationship. This suggests that a country or continent's unemployment rate may not be significantly influenced by the amount spent on the education of its citizens.
 
 <img width="344" alt="Correlation between expenditure on education and unemplyment rate" src="https://github.com/Promise-Chinonso/Comprehensive-Overview-of-Unemployment-in-Africa/assets/104436236/3469a1d4-41b3-49f9-9e2d-f3d3fbf6f175">
+
 ---
-
-## Conclusion and Recommendations
-
-
-
-
+Conclusively this analysis sheds light on Africa's employment challenges. The impact of COVID-19 on rising unemployment is evident, emphasizing the need for targeted strategies. Surprisingly, government spending on education doesn't show a clear link to unemployment rates. Additionally, the low number of countries with youth employment plans calls for collaborative efforts. To navigate these complexities, tailored solutions, investments in valuable education, and a focus on emerging sectors are key. Prioritizing youth employment strategies is vital for a resilient future. By working together, nations can create sustainable pathways to inclusive economic development and improved employment prospects.
 
 
 
